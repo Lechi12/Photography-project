@@ -31,27 +31,31 @@ Here are some previews of the web app:
 
 Here are some previews of the Photography Services Web App:
 
+## 🖼 Screenshots
+
+Here are some previews of the Photography Services Web App:
+
 ### 📌 Home Page
 
-![Home Page](screenshots/PH-Homepage.png)
+![Home Page](screenshots/PH-Homepage.jpg)
 
 ### 📌 About Us Page
 
-![About Us Page 1](screenshots/PG-Aboutuspage1.png)  
-![About Us Page 2](screenshots/PG-Aboutuspage2.png)  
-![About Us Page 3](screenshots/PG-Aboutuspage3.png)
+![About Us Page 1](screenshots/PG-Aboutuspage1.jpg)  
+![About Us Page 2](screenshots/PG-Aboutuspage2.jpg)  
+![About Us Page 3](screenshots/PG-Aboutuspage3.jpg)
 
 ### 📌 Contact Page
 
-![Contact Page](screenshots/PH-Contactpage.png)
+![Contact Page](screenshots/PH-Contactpage.jpg)
 
 ### 📌 Product Page
 
-![Product Page](screenshots/PH-Productpage.png)
+![Product Page](screenshots/PH-Productpage.jpg)
 
 ### 📌 Services Page
 
-![Services Page](screenshots/Servicespage.png)
+![Services Page](screenshots/Servicespage.jpg)
 
 ## 🔧 Setup Instructions
 
